@@ -4,4 +4,4 @@ import { NotesModule } from '@kroms/notes/notes.module'
 @Module({
   imports: [NotesModule],
 })
-class AppModule {}
+export class AppModule {}
